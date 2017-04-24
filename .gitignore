@@ -1,0 +1,16 @@
+# Maven generated files
+target/
+MANIFEST.MF
+
+# Compiled files
+*.class
+
+# Packages
+*.jar
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+/.metadata
+/Servers*
+

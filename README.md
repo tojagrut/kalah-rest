@@ -5,6 +5,7 @@ It provides interfaces to initialize, retrieve and play the kalah board.
 
 Detailed API documentation can be found using below url once application is deployed: 
 http://localhost:8081/swagger-ui.html
+![API Documentation](docs/swagger-ui-operations.png)
 
 This project is built using JDK 1.8 and uses:
 - spring-boot

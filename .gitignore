@@ -6,7 +6,6 @@ MANIFEST.MF
 *.class
 
 # Packages
-*.jar
 
 # IntelliJ IDEA files
 .idea/

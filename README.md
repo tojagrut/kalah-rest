@@ -12,10 +12,10 @@ It is also hosted on heroku. https://shrouded-lake-38768.herokuapp.com/swagger-u
 
 This project is built using JDK 1.8 and uses:
 - spring-boot
-- spring-hateoas
+- spring-hateoas (for HAL link generation)
 - projectlombok
-- springfox-swagger2
-- springfox-swagger-ui
+- springfox-swagger2 (for api documentation)
+- springfox-swagger-ui (for api documentation ui)
 
 Run the jar file from target folder after build or use the one in dist folder.
 You can access the endpoints using http://localhost:8081/kalah
